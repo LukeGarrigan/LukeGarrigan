@@ -6,4 +6,3 @@ So, I am a software engineer by trade currently working at [Netcall](https://www
 
 - 📗 I write blogs on my personal blogsite at [codeheir.com](https://www.codeheir.com/). 
 - 💬 I have a portfolio website that can be found at [lukegarrigan.com](https://www.lukegarrigan.com) (I coded this in a day so don't judge too much 🤣)
-- 🎨 I run a print-on-demand website where I sell programming canvases at [codecanvases.com](https://www.codecanvases.com)
