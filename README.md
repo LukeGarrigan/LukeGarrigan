@@ -7,4 +7,4 @@ So, I am a software engineer by trade currently working at [Netcall](https://www
 - 📗 I write blogs on my personal blogsite at [codeheir.com](https://www.codeheir.com/) 
 - 💬 Website at [lukegarrigan.com](https://www.lukegarrigan.com)
 - 📆 Plan with your team for free at [planfree.dev](https://www.planfree.dev/#/) 
-- 🏃‍♂️ Create running workouts at [Seshyn](https://seshyn.com) and sync to your smart watch!
+- 🏃‍♂️ Co-creator of [Seshyn](https://seshyn.com) - create and sync workouts to your smart watch!
