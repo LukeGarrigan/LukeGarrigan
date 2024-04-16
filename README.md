@@ -8,3 +8,4 @@ So, I am a software engineer by trade currently working at [Netcall](https://www
 - 💬 Website at [lukegarrigan.com](https://www.lukegarrigan.com)
 - 📆 Plan with your team for free at [planfree.dev](https://www.planfree.dev/#/) 
 - 🏃‍♂️ Co-creator of [Seshyn](https://seshyn.com) - create and sync workouts to your smart watch!
+- 📚 Creator of [Syndles](https://syndles.com/)
